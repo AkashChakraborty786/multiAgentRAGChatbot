@@ -1,0 +1,17 @@
+langchain
+langchain-classic
+langchain-core
+langchain-community
+langchain-groq
+langchain-chroma
+langchain-text-splitters
+chromadb
+sentence-transformers
+fastapi
+uvicorn
+streamlit
+requests
+pypdf
+python-dotenv
+unstructured
+serpapi
